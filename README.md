@@ -4,7 +4,7 @@ Hi i'm French, i'm happy to join this community ...
 
 - 🌱 I’m currently learning all i need to create and manage a FiveM server ...
 - 🔭 I’m currently working on the creation of a FiveM server ...
-- 🤔 I’m looking for help with programming and development...
+- 🤔 I’m looking for help with programming and development ...
 - 📫 How to reach me : Soon
 
 <!--
@@ -25,7 +25,6 @@ To create a heading, add one to six # symbols before your heading text. The numb
 # A first-level heading
 ## A second-level heading
 ### A third-level heading
-
 
 Style	Syntax	Keyboard shortcut	Example	Output
 Bold	** ** or __ __	Command+B (Mac) or Ctrl+B (Windows/Linux)	**This is bold text**	This is bold text
