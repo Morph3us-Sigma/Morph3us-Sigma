@@ -2,13 +2,13 @@
 
 Hi I'm French, I'm happy to join this community ...
 
-- 🌱 Currently I learning Electron applications development with Typescript/JavaScript and AI technologies...
+- 🌱 Currently I'm learning Electron applications development with Typescript/JavaScript and AI technologies
 
-- 🔭 I’m currently working on HighBrain.ai
+- 🔭 I’m working on my project HighBrain.ai
 
-- 🏞 I want create and manage a FiveM server.
+- 🏞 I want create and manage a FiveM server
 
-- 🤔 I’m thinking about development...
+- 🤔 Thinking about applications development, AIs, and latest technologies
 
 - 📫 How to reach me : Morph3us.Sigma@gmail.com
 
