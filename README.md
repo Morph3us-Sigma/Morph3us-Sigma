@@ -1,8 +1,10 @@
-# Morph3us.Sigma
+# Morph3us Sigma
 
-Hi I'm French, I'm happy to join this community ...
+Hi I'm happy to join the dev community.
 
-- 🤔 Thinking about applications development, AIs, and latest technologies
+- 🔭 I’m currently working on my privates projects
+
+- 🤔 Thinking about AI, applications development, and latest technologies
 
 - 📫 How to reach me : Morph3us.Sigma@gmail.com
 
