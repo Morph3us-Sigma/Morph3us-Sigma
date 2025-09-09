@@ -6,7 +6,7 @@ Hi I'm happy to join the dev community.
 
 - 🤔 Thinking about AI, applications development, and latest technologies
 
-- 📫 How to reach me : Morph3us.Sigma@gmail.com
+- 📫 How to reach me : morph3us.sigma@proton.me
 
 <!--
 **Morpheus-Sigma/Morpheus-Sigma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
